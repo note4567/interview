@@ -18,7 +18,6 @@ import item
 # Copyright © 2022 Ryan Munro (munro)
 # Released under the MIT license(https://opensource.org/license/mit)
 # 2024: I modified it for Chrome. Also,Change in driver termination process
-# Ryan Munroさんのコードを Chrome用に改造
 import selenium_async
 from selenium_async.core import run_sync
 
