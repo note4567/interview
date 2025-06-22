@@ -75,3 +75,7 @@ Rust(scraper)を用いたパース処理
     └── wasm.ts
                 検証用クローリングスクリプト
 ```
+<br>
+
+##### ・オマケ(過去の作例)
+z_actionscript3
